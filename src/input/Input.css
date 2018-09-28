@@ -1,0 +1,28 @@
+.SearchBar {
+    margin-left: 20%;
+    width:60%;
+    margin-top: 35px;
+    height: 25px;
+  }
+  .inputField{
+    width: 65%;
+    height: 20px;
+  }
+  .submitBtn{
+    width: 30%;
+    height: 25px;
+    margin-left: 2%;
+    cursor: pointer;
+    display: inline-block;
+    border-radius: 4px;
+    background-color: rgb(179, 60, 0);
+    border: none;
+    color: #FFFFFF;
+    font-size: 15px;
+    padding: 3px;
+    transition: all 0.5s;
+  }
+  .submitBtn:hover {
+    background-color: #4CAF50;
+    color: white;
+  }

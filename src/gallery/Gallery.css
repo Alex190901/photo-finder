@@ -1,0 +1,21 @@
+.Gallery{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-top: 60px;
+    flex-direction: row;
+    flex-wrap: wrap;
+  }
+
+  #loading{
+    height: 30px;
+  }
+
+  #Loading_container{
+    clear: both;
+    margin: auto;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
